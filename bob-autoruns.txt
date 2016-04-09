@@ -1,0 +1,108 @@
+
+
+Autoruns =========================================
+
+Hive: \Device\HarddiskVolume1\WINDOWS\system32\config\software
+    Microsoft\Windows\CurrentVersion\Run (Last modified: 2010-02-26 03:33:32 UTC+0000)
+        VMware User Process            : "C:\Program Files\VMware\VMware Tools\VMwareUser.exe" (PIDs: 1116)
+        VMware Tools                   : "C:\Program Files\VMware\VMware Tools\VMwareTray.exe" (PIDs: 1108)
+
+
+
+Services =========================================
+
+Service: VMMEMCTL (Memory Control Driver) - Kernel driver, Auto Start
+    Image path: \??\C:\Program Files\VMware\VMware Tools\Drivers\memctl\vmmemctl.sys (Last modified: 2010-02-26 03:34:06 UTC+0000)
+    PIDs: -
+
+Service: VMTools (VMware Tools Service) - Interactive, Auto Start
+    Image path: "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" (Last modified: 2010-02-26 03:33:58 UTC+0000)
+    PIDs: 1628
+
+Service: VMUpgradeHelper (VMware Upgrade Helper) - Own_Process, Auto Start
+    Image path: "C:\Program Files\VMware\VMware Tools\VMUpgradeHelper.exe" /service (Last modified: 2010-02-26 03:33:58 UTC+0000)
+    PIDs: 1836
+
+Service: VMware Physical Disk Helper Service (VMware Physical Disk Helper Service) - Own_Process, Auto Start
+    Image path: "C:\Program Files\VMware\VMware Tools\vmacthlp.exe" (Last modified: 2010-02-26 03:33:58 UTC+0000)
+    PIDs: 852
+
+
+
+Winlogon =========================================
+
+System:  (default: lsass.exe)
+    PIDs: -
+    Last write time: 2010-02-27 20:12:34 UTC+0000
+
+Shell: Explorer.exe (default: Explorer.exe)
+    PIDs: 1756
+    Last write time: 2010-02-27 20:12:34 UTC+0000
+
+Userinit: C:\WINDOWS\system32\userinit.exe,C:\WINDOWS\system32\sdra64.exe, (default: userinit.exe)
+    PIDs: -
+    Last write time: 2010-02-27 20:12:34 UTC+0000
+
+VmApplet: rundll32 shell32,Control_RunDLL "sysdm.cpl" (default: rundll32 shell32,Control_RunDLL "sysdm.cpl")
+    PIDs: -
+    Last write time: 2010-02-27 20:12:34 UTC+0000
+
+
+
+Winlogon Notify registrations ====================
+
+WlNotify.dll (Last write time: 2010-02-25 22:22:44 UTC+0000)
+    PIDs: 644
+    Hooks: 
+        Lock                 SensLockEvent
+        Logoff               SensLogoffEvent
+        Logon                SensLogonEvent
+        Shutdown             SensShutdownEvent
+        StartScreenSaver     SensStartScreenSaverEvent
+        StartShell           SensStartShellEvent
+        Startup              SensStartupEvent
+        StopScreenSaver      SensStopScreenSaverEvent
+        Unlock               SensUnlockEvent
+
+TPSvc.dll (Last write time: 2010-02-26 03:33:22 UTC+0000)
+    PIDs: -
+    Hooks: 
+        Logoff               TSEventLogoff
+
+
+
+Active Setup =====================================
+
+Command line: %systemroot%\system32\shmgrate.exe OCInstallUserConfigIE
+Last-written: 2010-02-26 03:27:00 UTC+0000 (PIDs: -)
+
+Command line: %systemroot%\system32\shmgrate.exe OCInstallUserConfigOE
+Last-written: 2010-02-26 03:27:00 UTC+0000 (PIDs: -)
+
+Command line: %SystemRoot%\system32\regsvr32.exe /s /n /i:/UserInstall %SystemRoot%\system32\themeui.dll
+Last-written: 2010-02-26 03:27:40 UTC+0000 (PIDs: -)
+
+Command line: "%ProgramFiles%\Outlook Express\setup50.exe" /APP:OE /CALLER:WINNT /user /install
+Last-written: 2010-02-26 03:27:34 UTC+0000 (PIDs: -)
+
+Command line: rundll32.exe advpack.dll,LaunchINFSection C:\WINDOWS\INF\msnetmtg.inf,NetMtg.Install.PerUser.NT
+Last-written: 2010-02-26 03:27:34 UTC+0000 (PIDs: -)
+
+Command line: %SystemRoot%\System32\rundll32.exe setupapi,InstallHinfSection MarketplaceLinkInstall 896 %systemroot%\inf\ie.inf
+Last-written: 2010-02-25 22:22:44 UTC+0000 (PIDs: -)
+
+Command line: rundll32.exe advpack.dll,LaunchINFSection C:\WINDOWS\INF\msmsgs.inf,BLC.QuietInstall.PerUser
+Last-written: 2010-02-26 03:26:52 UTC+0000 (PIDs: -)
+
+Command line: rundll32.exe advpack.dll,LaunchINFSection C:\WINDOWS\INF\wmp.inf,PerUserStub
+Last-written: 2010-02-26 03:28:41 UTC+0000 (PIDs: -)
+
+Command line: "%ProgramFiles%\Outlook Express\setup50.exe" /APP:WAB /CALLER:WINNT /user /install
+Last-written: 2010-02-26 03:28:38 UTC+0000 (PIDs: -)
+
+Command line: regsvr32.exe /s /n /i:U shell32.dll
+Last-written: 2010-02-26 03:27:31 UTC+0000 (PIDs: -)
+
+Command line: %SystemRoot%\system32\ie4uinit.exe
+Last-written: 2010-02-26 03:28:58 UTC+0000 (PIDs: -)
+
