@@ -1,6 +1,0 @@
-Session    WindowStation Format                 Handle Object     Data                                              
----------- ------------- ------------------ ---------- ---------- --------------------------------------------------
-         0 WinSta0       CF_UNICODETEXT        0x70075 0xe1dbfc80 search-network-plus.com/...ternet%20Explorer%206.0
-         0 WinSta0       CF_LOCALE             0xa009b 0xe20a1818                                                   
-         0 WinSta0       CF_TEXT                   0x1 ----------                                                   
-         0 WinSta0       CF_OEMTEXT                0x1 ----------                                                   

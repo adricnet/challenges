@@ -1,2 +1,0 @@
-Offset(V)  Local Address             Remote Address            Pid
----------- ------------------------- ------------------------- ---
