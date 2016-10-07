@@ -1,0 +1,6 @@
+**************************************************
+ConsoleProcess: csrss.exe Pid: 612
+Console: 0x4e23b0 CommandHistorySize: 50
+HistoryBufferCount: 3 HistoryBufferMax: 4
+OriginalTitle: ?NystemRoot%\system32\cmd.exe
+Title: ??\WINDOWS\system32\cmd.exe

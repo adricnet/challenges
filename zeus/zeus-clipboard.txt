@@ -1,0 +1,6 @@
+Session    WindowStation Format                 Handle Object     Data                                              
+---------- ------------- ------------------ ---------- ---------- --------------------------------------------------
+         0 WinSta0       CF_UNICODETEXT        0x500b7 0xe1f2abc0 p_csrss                                           
+         0 WinSta0       CF_LOCALE             0x200d7 0xe121e0b0                                                   
+         0 WinSta0       CF_TEXT                   0x1 ----------                                                   
+         0 WinSta0       CF_OEMTEXT                0x1 ----------                                                   

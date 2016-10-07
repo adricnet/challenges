@@ -1,0 +1,20 @@
+***************************************************************************
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT 
+Key: Software\Microsoft\Windows\Shell\Bags\1\Desktop
+Last updated: 2010-02-26 03:46:27 UTC+0000
+Value                     File Name      Modified Date                  Create Date                    Access Date                    File Attr                 Unicode Name
+------------------------- -------------- ------------------------------ ------------------------------ ------------------------------ ------------------------- ------------
+ItemPos1171x730(1)        ACROBA~1.EXE   2010-02-26 03:45:38 UTC+0000   2010-02-26 03:45:18 UTC+0000   2010-02-26 03:45:38 UTC+0000   ARC                       acrobat60.exe 
+ItemPos1171x730(1)        ADOBER~1.LNK   2010-02-26 03:46:24 UTC+0000   2010-02-26 03:46:24 UTC+0000   2010-02-26 03:46:24 UTC+0000   ARC                       Adobe Reader 6.0.lnk 
+***************************************************************************
+
+***************************************************************************
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT 
+Key: Software\Microsoft\Windows\ShellNoRoam\BagMRU
+Last updated: 2010-02-26 03:43:19 UTC+0000
+Value   Mru   Entry Type     GUID                                     GUID Description     Folder IDs
+------- ----- -------------- ---------------------------------------- -------------------- ----------
+1       0     Folder Entry   871c5380-42a0-1069-a2ea-08002b30309d     Internet Explorer (Homepage) EXPLORER 
+0       1     Folder Entry   20d04fe0-3aea-1069-a2d8-08002b30309d     My Computer          EXPLORER, MY_COMPUTER 
+***************************************************************************
+

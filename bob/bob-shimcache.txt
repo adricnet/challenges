@@ -1,0 +1,19 @@
+Last Modified                  Last Update                    Path
+------------------------------ ------------------------------ ----
+2006-02-28 12:00:00 UTC+0000   2010-02-26 03:31:08 UTC+0000   \??\C:\WINDOWS\system32\oobe\msoobe.exe
+2006-02-28 12:00:00 UTC+0000   2010-02-26 03:31:39 UTC+0000   \??\C:\WINDOWS\system32\oobe\oobebaln.exe
+2006-02-28 12:00:00 UTC+0000   2010-02-26 03:33:35 UTC+0000   \??\C:\WINDOWS\system32\wscntfy.exe
+2006-02-28 12:00:00 UTC+0000   2010-02-26 03:33:34 UTC+0000   \??\C:\WINDOWS\System32\cscui.dll
+2006-02-28 12:00:00 UTC+0000   2010-02-26 03:32:00 UTC+0000   \??\C:\Program Files\Outlook Express\setup50.exe
+2006-02-28 12:00:00 UTC+0000   2010-02-26 03:32:00 UTC+0000   \??\C:\WINDOWS\inf\unregmp2.exe
+2006-02-28 12:00:00 UTC+0000   2010-02-26 03:32:05 UTC+0000   \??\C:\WINDOWS\system32\NETSHELL.dll
+2006-02-28 12:00:00 UTC+0000   2010-02-26 03:32:28 UTC+0000   \??\C:\WINDOWS\system32\tourstart.exe
+2010-01-23 00:27:42 UTC+0000   2010-02-26 03:33:12 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\unzip.exe
+2010-01-23 00:19:52 UTC+0000   2010-02-26 03:33:22 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\TPAutoConnSvc.exe
+2010-01-23 00:19:52 UTC+0000   2010-02-26 03:33:23 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\TPVCGateway.exe
+2010-01-23 00:24:14 UTC+0000   2010-02-26 03:33:23 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\vmacthlp.exe
+2010-01-23 00:24:30 UTC+0000   2010-02-26 03:33:32 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\vmwareuser.exe
+2010-01-23 00:24:40 UTC+0000   2010-02-26 03:33:32 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\vmwaretray.exe
+2010-01-23 00:24:30 UTC+0000   2010-02-26 03:33:33 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\vmtoolsd.exe
+2006-02-28 12:00:00 UTC+0000   2010-02-26 03:33:33 UTC+0000   \??\C:\WINDOWS\system32\shdocvw.dll
+2010-01-23 00:24:42 UTC+0000   2010-02-26 03:33:34 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\VMUpgradeHelper.exe

@@ -1,0 +1,272 @@
+Offset(P)              #Ptr     #Hnd Signal Thread           CID Name
+------------------ -------- -------- ------ ---------- --------- ----
+0x0000000001e7f5b0        1        1      1 0x00000000           
+0x0000000001e82ef0        1        1      1 0x00000000           
+0x0000000001e8a5d8        1        1      1 0x00000000           
+0x0000000001e8bfe0        1        1      1 0x00000000           
+0x0000000001e902d8        2        1      1 0x00000000           RAS_MO_02
+0x0000000001e92cd0        2        1      1 0x00000000           CTF.TMD.MutexDefaultS-1-5-21-789336058-1844823847-839522115-500
+0x0000000001e947d0        2        1      1 0x00000000           MSDTC_Perf_Library_Lock_PID_65c
+0x0000000001e96088        1        1      1 0x00000000           
+0x0000000001e96ab0        3        2      1 0x00000000           TpVcW32ListMutex
+0x0000000001e97310        1        1      1 0x00000000           
+0x0000000001e993f0        1        1      1 0x00000000           
+0x0000000001e9b5f0        1        1      1 0x00000000           
+0x0000000001e9b748        1        1      1 0x00000000           
+0x0000000001e9b788        1        1      1 0x00000000           
+0x0000000001e9b7f8        1        1      1 0x00000000           
+0x0000000001e9e0e0        1        1      1 0x00000000           
+0x0000000001ea0228        1        1      1 0x00000000           
+0x0000000001ea0590        1        1      1 0x00000000           
+0x0000000001ea1420        1        1      1 0x00000000           
+0x0000000001ea68c8        1        1      1 0x00000000           
+0x0000000001ea6940        2        1      1 0x00000000           RSVP_Perf_Library_Lock_PID_65c
+0x0000000001ea6990        2        1      1 0x00000000           RemoteAccess_Perf_Library_Lock_PID_65c
+0x0000000001ea69e0        2        1      1 0x00000000           PSched_Perf_Library_Lock_PID_65c
+0x0000000001ea7658        1        1      1 0x00000000           
+0x0000000001eaacd8        1        1      1 0x00000000           
+0x0000000001eaae00        1        1      1 0x00000000           
+0x0000000001eb4a60        2        1      1 0x00000000           A069BE2001CAB6940000045C2
+0x0000000001eb61e8        2        1      1 0x00000000           A051E69C01CAB694000004542
+0x0000000001eb6720        2        1      1 0x00000000           1A7DCAF801CAB7E9000003782
+0x0000000001ebc768        1        1      1 0x00000000           
+0x0000000001ebd7f0        1        1      1 0x00000000           
+0x0000000001ec0310        2        1      1 0x00000000           RAS_MO_01
+0x0000000001ec44f0        2        1      1 0x00000000           PerfProc_Perf_Library_Lock_PID_65c
+0x0000000001ec4c90        1        1      1 0x00000000           
+0x0000000001ec8500        1        1      1 0x00000000           
+0x0000000001ec8a90        1        1      1 0x00000000           
+0x0000000001ec9a98        1        1      1 0x00000000           
+0x0000000001ecbbb0        2        1      1 0x00000000           PSched_Perf_Library_Lock_PID_f4
+0x0000000001ecbc00        2        1      1 0x00000000           PerfProc_Perf_Library_Lock_PID_f4
+0x0000000001eceac0        2        1      1 0x00000000           8D5CC44401CAB694000003B42
+0x0000000001ecfe48        1        1      1 0x00000000           
+0x0000000001ecfe98        2        1      1 0x00000000           ISAPISearch_Perf_Library_Lock_PID_65c
+0x0000000001ed1708        1        1      1 0x00000000           
+0x0000000001ed6850        1        1      1 0x00000000           
+0x0000000001ed8868        2        1      1 0x00000000           8E20451801CAB694000004DC2
+0x0000000001ed9078        2        1      1 0x00000000           _AVIRA_2108
+0x0000000001edab58        2        1      1 0x00000000           ContentIndex_Perf_Library_Lock_PID_65c
+0x0000000001edade0        2        1      1 0x00000000           9FA3DAF201CAB694000006DC2
+0x0000000001edb510        2        1      1 0x00000000           HGFSMUTEX000000000001a71c
+0x0000000001edd418        1        1      1 0x00000000           
+0x0000000001edd4f8        3        2      1 0x00000000           WininetConnectionMutex
+0x0000000001edd5c0        1        1      1 0x00000000           
+0x0000000001ee16f8        2        1      1 0x00000000           CTF.Compart.MutexDefaultS-1-5-21-789336058-1844823847-839522115-500
+0x0000000001ee3808        1        1      1 0x00000000           
+0x0000000001ee4820        1        1      1 0x00000000           
+0x0000000001ee5420        2        1      1 0x00000000           PerfDisk_Perf_Library_Lock_PID_f4
+0x0000000001ee5eb0        2        1      1 0x00000000           746bbf3569adEncrypt
+0x0000000001ee93d0        2        1      1 0x00000000           8EF4766201CAB694000005B42
+0x0000000001ee9550        1        1      1 0x00000000           
+0x0000000001eef148        2        1      1 0x00000000           c:!windows!system32!config!systemprofile!local settings!history!history.ie5!
+0x0000000001ef28e0        2        1      1 0x00000000           8CF17A7201CAB694000003542
+0x0000000001efa460        2        1      1 0x00000000           c:!windows!system32!config!systemprofile!cookies!
+0x0000000001efb718        1        1      1 0x00000000           
+0x0000000001efb798        3        2      1 0x00000000           MidiMapper_Configure
+0x0000000001efe540        2        1      1 0x00000000           8C4CF83001CAB694000002B02
+0x0000000001f00930        1        1      1 0x00000000           
+0x0000000001f009a0        1        1      1 0x00000000           
+0x0000000001f00a10        1        1      1 0x00000000           
+0x0000000001f05b98        1        1      1 0x00000000           
+0x0000000001f07cf0        1        1      1 0x00000000           
+0x0000000001f14748        2        1      1 0x00000000           0CADFD67AF62496dB34264F000F5624A
+0x0000000001f171e0        1        1      1 0x00000000           
+0x0000000001f173c8        1        1      1 0x00000000           
+0x0000000001f1b458        4        3      1 0x00000000           c:!documents and settings!localservice!local settings!temporary internet files!content.ie5!
+0x0000000001f1ce00        9        8      1 0x00000000           _!MSFTHISTORY!_
+0x0000000001f1e330        2        1      1 0x00000000           ThinPrint-L
+0x0000000001f1fe50        2        1      1 0x00000000           PerfOS_Perf_Library_Lock_PID_65c
+0x0000000001f1fea0        2        1      1 0x00000000           PerfNet_Perf_Library_Lock_PID_65c
+0x0000000001f21830        3        2      1 0x00000000           SRDataStore
+0x0000000001f26720        1        1      1 0x00000000           
+0x0000000001f26770        1        1      1 0x00000000           
+0x0000000001f27200        1        1      1 0x00000000           
+0x0000000001f28b80        2        1      1 0x00000000           8C600B0001CAB694000002BC2
+0x0000000001f2d6f0        6        5      1 0x00000000           WininetStartupMutex
+0x0000000001f2d8e0        1        1      1 0x00000000           
+0x0000000001f34d40        2        1      1 0x00000000           PnP_Init_Mutex
+0x0000000001f36590        1        1      1 0x00000000           
+0x0000000001f47fe0        1        1      1 0x00000000           
+0x0000000001f484e0        1        1      1 0x00000000           
+0x0000000001f5e490        2        1      1 0x00000000           userenv: Machine Registry policy mutex
+0x0000000001f5e4e0        2        1      1 0x00000000           userenv: machine policy mutex
+0x0000000001fda8f0        1        1      1 0x00000000           
+0x0000000001fdf768        4        3      1 0x00000000           c:!documents and settings!localservice!cookies!
+0x0000000001fe09c0        2        1      1 0x00000000           WmiApRpl_Perf_Library_Lock_PID_f4
+0x0000000001fe19f0        1        1      1 0x00000000           
+0x0000000001fe3170        2        1      1 0x00000000           WPA_LICSTORE_MUTEX
+0x0000000001fe31c0        2        1      1 0x00000000           WPA_HWID_MUTEX
+0x0000000001fe68a0        2        1      1 0x00000000           WPA_PR_MUTEX
+0x0000000001fe8bc8        6        5      1 0x00000000           RasPbFile
+0x0000000001fe8c08        1        1      1 0x00000000           
+0x0000000001fe8e98        1        1      1 0x00000000           
+0x0000000001fe8f08        1        1      1 0x00000000           
+0x0000000001fe97d0        2        1      1 0x00000000           E185FC6E01CAB7E5000001B82
+0x0000000001fec688        1        1      1 0x00000000           
+0x0000000001fed1a8        1        1      1 0x00000000           
+0x0000000001fed638        1        1      1 0x00000000           
+0x0000000001fed8f0        1        1      1 0x00000000           
+0x0000000001fee260        2        1      1 0x00000000           WPA_LT_MUTEX
+0x0000000001fee2b0        2        1      1 0x00000000           WPA_RT_MUTEX
+0x0000000001ff7800        9        8      1 0x00000000           ShimCacheMutex
+0x000000000205a190        2        1      1 0x00000000           userenv: User Registry policy mutex
+0x000000000205a1e0        2        1      1 0x00000000           userenv: user policy mutex
+0x000000000205a618        5        4      1 0x00000000           WindowsUpdateTracingMutex
+0x00000000020a0d68        2        1      1 0x00000000           ContentIndex_Perf_Library_Lock_PID_f4
+0x00000000020bd3f8        2        1      1 0x00000000           VMwareGuestCopyPasteMutex
+0x00000000020c9500        2        1      1 0x00000000           _SHuassist.mtx
+0x00000000020d2cc0        1        1      1 0x00000000           
+0x00000000020d2d30        1        1      1 0x00000000           
+0x00000000020d2da0        1        1      1 0x00000000           
+0x00000000020d43b0        2        1      1 0x00000000           winlogon: Logon UserProfileMapping Mutex
+0x00000000020d53c0        1        1      1 0x00000000           
+0x00000000020d9538        1        1      1 0x00000000           
+0x00000000020d95a8        1        1      1 0x00000000           
+0x00000000020d9618        1        1      1 0x00000000           
+0x00000000020d9688        1        1      1 0x00000000           
+0x00000000020d9900        1        1      1 0x00000000           
+0x00000000020d9970        1        1      1 0x00000000           
+0x00000000020d99e0        1        1      1 0x00000000           
+0x00000000020d9a50        1        1      1 0x00000000           
+0x00000000020d9ac0        1        1      1 0x00000000           
+0x00000000020d9d48        1        1      1 0x00000000           
+0x00000000020d9db8        1        1      1 0x00000000           
+0x00000000020d9e28        1        1      1 0x00000000           
+0x00000000020d9e98        1        1      1 0x00000000           
+0x0000000002269418        1        1      1 0x00000000           
+0x000000000227a970        1        1      1 0x00000000           
+0x000000000227a9b0        1        1      1 0x00000000           
+0x00000000022858b8        2        1      1 0x00000000           8D7BC2D601CAB6940000044C2
+0x0000000002286350        2        1      1 0x00000000           EE88B19001CAB7E5000000E82
+0x0000000002287060        1        1      1 0x00000000           
+0x00000000022894a8        1        1      1 0x00000000           
+0x000000000228ce00        1        1      1 0x00000000           
+0x0000000002292940        1        1      1 0x00000000           
+0x00000000022929c8        2        1      1 0x00000000           PerfDisk_Perf_Library_Lock_PID_65c
+0x0000000002292a08        1        1      1 0x00000000           
+0x0000000002293cb8        1        1      1 0x00000000           
+0x0000000002293cf8        1        1      1 0x00000000           
+0x0000000002293d68        1        1      1 0x00000000           
+0x0000000002295578        1        1      1 0x00000000           
+0x00000000022974f8        1        1      1 0x00000000           
+0x0000000002297840        1        1      1 0x00000000           
+0x0000000002297dc8        1        1      1 0x00000000           
+0x000000000229c5b0        2        1      1 0x00000000           ISAPISearch_Perf_Library_Lock_PID_f4
+0x000000000229f178        2        1      1 0x00000000           A0A558EA01CAB6940000046C2
+0x000000000229f668        2        1      1 0x00000000           TermService_Perf_Library_Lock_PID_f4
+0x000000000229f6b8        2        1      1 0x00000000           Tcpip_Perf_Library_Lock_PID_f4
+0x000000000229f708        2        1      1 0x00000000           TapiSrv_Perf_Library_Lock_PID_f4
+0x00000000022a0dc0        2        1      1 0x00000000           Tcpip_Perf_Library_Lock_PID_65c
+0x00000000022a0e10        2        1      1 0x00000000           TapiSrv_Perf_Library_Lock_PID_65c
+0x00000000022a0e60        2        1      1 0x00000000           Spooler_Perf_Library_Lock_PID_65c
+0x00000000022a0f90        2        1      1 0x00000000           WmiApRpl_Perf_Library_Lock_PID_65c
+0x00000000022a0fe0        2        1      1 0x00000000           TermService_Perf_Library_Lock_PID_65c
+0x00000000022a2610        2        1      1 0x00000000           2C93E1B401CAB7E9000006D82
+0x00000000022a63b0        2        1      1 0x00000000           CTF.Layouts.MutexDefaultS-1-5-21-789336058-1844823847-839522115-500
+0x00000000022aa560        1        1      1 0x00000000           
+0x00000000022aac20        2        1      1 0x00000000           VMToolsHookQueueLock
+0x00000000022af5c0        2        1      1 0x00000000           983657D601CAB6940000065C2
+0x00000000022b8140        1        1      1 0x00000000           
+0x00000000022be8a8        1        1      1 0x00000000           
+0x00000000022bf1b0        1        1      1 0x00000000           
+0x00000000022bf1f0        1        1      1 0x00000000           
+0x00000000022bf230        1        1      1 0x00000000           
+0x00000000022bfe68        2        1      1 0x00000000           c:!documents and settings!networkservice!cookies!
+0x00000000022c01e8        2        1      1 0x00000000           ContentFilter_Perf_Library_Lock_PID_f4
+0x00000000022c2168        2        1      1 0x00000000           9D5A69E601CAB6940000072C2
+0x00000000022c74f8        1        1      1 0x00000000           
+0x00000000022c9228        3        2      1 0x00000000           MidiMapper_modLongMessage_RefCnt
+0x00000000022c9758        1        1      1 0x00000000           
+0x00000000022ca1f8        1        1      1 0x00000000           
+0x00000000022ca448        2        1      1 0x00000000           ExplorerIsShellMutex
+0x00000000022cc2f0        1        1      1 0x00000000           
+0x00000000022d1908        2        1      1 0x00000000           c:!documents and settings!networkservice!local settings!temporary internet files!content.ie5!
+0x00000000022d2300        1        1      1 0x00000000           
+0x00000000022d2880        2        1      1 0x00000000           9E28C50C01CAB694000007E82
+0x00000000022d99b8        1        1      1 0x00000000           
+0x00000000022da8e0        1        1      1 0x00000000           
+0x00000000022dd9e8        1        1      1 0x00000000           
+0x00000000022df358        2        1      1 0x00000000           Spooler_Perf_Library_Lock_PID_f4
+0x00000000022df3a8        2        1      1 0x00000000           RSVP_Perf_Library_Lock_PID_f4
+0x00000000022df3f8        2        1      1 0x00000000           RemoteAccess_Perf_Library_Lock_PID_f4
+0x00000000022e2ac8        2        1      1 0x00000000           8D72396E01CAB694000004102
+0x00000000022e4930        1        1      1 0x00000000           
+0x00000000022e4970        1        1      1 0x00000000           
+0x00000000022e49b0        1        1      1 0x00000000           
+0x00000000022e49f0        1        1      1 0x00000000           
+0x00000000022e4fe0        3        2      1 0x00000000           DBWinMutex
+0x00000000022e6cc8        1        1      1 0x00000000           
+0x00000000022ea398        2        1      1 0x00000000           AcrobatViewerIsRunning
+0x00000000022eb4c0        2        1      0 0x81c90ca8  440:1744 Instance0:  ESENT Performance Data Schema Version 40
+0x00000000022f10f0        1        1      1 0x00000000           
+0x00000000022f18d8        2        1      1 0x00000000           238FAD3109D3473aB4764B20B3731840
+0x00000000022f1928        2        1      1 0x00000000           4FCC0DEFE22C4f138FB9D5AF25FD9398
+0x00000000022f1b90        1        1      1 0x00000000           
+0x00000000022f8120        1        1      1 0x00000000           
+0x00000000022f8ae8        1        1      1 0x00000000           
+0x00000000022f8b50        1        1      1 0x00000000           
+0x00000000022f9988        1        1      1 0x00000000           
+0x00000000022fab68        2        1      1 0x00000000           ContentFilter_Perf_Library_Lock_PID_65c
+0x0000000002302020        1        1      1 0x00000000           
+0x00000000023020b0        1        1      1 0x00000000           
+0x0000000002304360        1        1      1 0x00000000           
+0x000000000230e458        6        5      1 0x00000000           WininetProxyRegistryMutex
+0x0000000002314598        2        1      1 0x00000000           CTF.LBES.MutexDefaultS-1-5-21-789336058-1844823847-839522115-500
+0x00000000023154d8        1        1      1 0x00000000           
+0x0000000002318418        1        1      1 0x00000000           
+0x0000000002327ef0        2        1      0 0x82103928 1132:1140 wscntfy_mtx
+0x0000000002327f40        2        1      1 0x00000000           VMwareGuestDnDDataMutex
+0x0000000002414448        2        1      1 0x00000000           CTF.Asm.MutexDefaultS-1-5-21-789336058-1844823847-839522115-500
+0x0000000002417198        1        1      1 0x00000000           
+0x00000000024171d8        1        1      1 0x00000000           
+0x000000000241de28        1        1      1 0x00000000           
+0x000000000241de90        1        1      1 0x00000000           
+0x0000000002424658        2        1      1 0x00000000           _AVIRA_2109
+0x0000000002428b70        2        1      1 0x00000000           3A1ED81001CAB696000000F42
+0x000000000242b360        1        1      1 0x00000000           
+0x000000000242b3d0        1        1      1 0x00000000           
+0x000000000242b410        1        1      1 0x00000000           
+0x000000000242b480        1        1      1 0x00000000           
+0x000000000242b4c0        1        1      1 0x00000000           
+0x000000000245e798        1        1      1 0x00000000           
+0x000000000245e878        2        1      1 0x00000000           c:!windows!system32!config!systemprofile!local settings!temporary internet files!content.ie5!
+0x0000000002462d20        1        1      1 0x00000000           
+0x000000000246bf28        2        1      1 0x00000000           msgina: InteractiveLogonRequestMutex
+0x000000000246bf78        2        1      1 0x00000000           msgina: InteractiveLogonMutex
+0x00000000024717c8        1        1      1 0x00000000           
+0x0000000002472c90        2        1      1 0x00000000           MSDTC_Perf_Library_Lock_PID_f4
+0x0000000002472d18        2        1      1 0x00000000           PerfOS_Perf_Library_Lock_PID_f4
+0x0000000002472d68        2        1      1 0x00000000           PerfNet_Perf_Library_Lock_PID_f4
+0x0000000002475368        1        1      1 0x00000000           
+0x00000000024753d8        1        1      1 0x00000000           
+0x0000000002475448        1        1      1 0x00000000           
+0x00000000024754b8        1        1      1 0x00000000           
+0x0000000002475528        1        1      1 0x00000000           
+0x00000000024757b0        1        1      1 0x00000000           
+0x0000000002475820        1        1      1 0x00000000           
+0x0000000002475890        1        1      1 0x00000000           
+0x0000000002475900        1        1      1 0x00000000           
+0x0000000002475ae8        1        1      1 0x00000000           
+0x0000000002475b58        1        1      1 0x00000000           
+0x0000000002475bc8        1        1      1 0x00000000           
+0x0000000002475c38        1        1      1 0x00000000           
+0x0000000002475ca8        1        1      1 0x00000000           
+0x0000000002475e50        1        1      1 0x00000000           
+0x0000000002475ec0        1        1      1 0x00000000           
+0x0000000002475f30        1        1      1 0x00000000           
+0x0000000002475fa0        1        1      1 0x00000000           
+0x0000000002476b08        4        3      1 0x00000000           c:!documents and settings!administrator!local settings!temporary internet files!content.ie5!
+0x0000000002476e58        4        3      1 0x00000000           c:!documents and settings!administrator!local settings!history!history.ie5!
+0x0000000002476f10        4        3      1 0x00000000           c:!documents and settings!administrator!cookies!
+0x00000000024c0750        2        1      1 0x00000000           c:!documents and settings!networkservice!local settings!history!history.ie5!
+0x00000000024c0ad8        1        1      1 0x00000000           
+0x00000000024c0e48        4        3      1 0x00000000           c:!documents and settings!localservice!local settings!history!history.ie5!
+0x00000000024d2660        1        1      1 0x00000000           
+0x00000000024d3c40        1        1      1 0x00000000           
+0x00000000024df7b0        4        3      1 0x00000000           ZonesCounterMutex
+0x00000000024e3898        4        3      1 0x00000000           ZonesCacheCounterMutex
+0x00000000024e3fe0        4        3      1 0x00000000           ZonesLockedCacheCounterMutex
+0x00000000024edfe0        2        1      1 0x00000000           SingleSesMutex
+0x00000000024f0eb0        2        1      0 0x822093c8  1384:300 347E708801CAB7E9000005682
+0x00000000024f3a38        9        8      1 0x00000000           SHIMLIB_LOG_MUTEX
